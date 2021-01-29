@@ -20,3 +20,5 @@
 
 
 * Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
+
+(The data located in VBA_Calculate satisfies all of the requirements.) 
